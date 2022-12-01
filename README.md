@@ -1,4 +1,9 @@
 # Tugas Akhir Praktikum Pemrograman Integratif
+KELOMPOK : 3
+- 205150707111029   : Dhimasdar Agdeli Rizqy Alfathi 
+- 205150700111043   : Muhammad Nizar Labib
+- 205150700111010   : Nanda Riska Dewi
+- 205150701111011   : Ivana C. Rutchya
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
